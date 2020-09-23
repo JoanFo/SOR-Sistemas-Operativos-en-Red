@@ -22,3 +22,14 @@ hace diferente es que está basado en Linux, un núcleo de sistema operativo lib
 
 ***Solaris***
 
+![](https://upload.wikimedia.org/wikipedia/commons/e/ee/Aktualne_logo_Oracle_Solaris_OS_OSos.png)
+
+Solaris es un sistema operativo de tipo Unix desarrollado desde 1992 inicialmente por ***Sun Microsystems*** y actualmente por ***Oracle Corporation*** como sucesor de ***SunOS***. Es un sistema certificado oficialmente como versión de ***UNIX***. Funciona en arquitecturas SPARC y x86 para servidores y estaciones de trabajo.
+
+***Haiku OS***
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Haikulogov2.png/245px-Haikulogov2.png)
+
+![](https://blog.desdelinux.net/wp-content/uploads/2018/07/haiku-os.jpg)
+
+Haiku es un sistema operativo de código abierto que se dirige específicamente a la informática personal. Inspirado en BeOS (***Be Operating System***), Haiku es rápido, fácil de usar, fácil de aprender y, sin embargo, muy poderoso sin descuidar su potencia para los usuarios de todos los niveles.
