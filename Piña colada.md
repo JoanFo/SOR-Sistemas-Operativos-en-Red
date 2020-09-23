@@ -10,7 +10,7 @@ Esta piña colada realizada en coctelera es un clásico de la coctelería caribe
 * 1 rodaja de piña para decorar (opcional)
 ## PASOS A SEGUIR PARA HACER ESTA RECETA:
 1. Llenamos la coctelera hasta la mitad de hielos. Si están picados o son de tamaño pequeño, mejor quedará la piña colada.
-2. Echamos el zumo, la crema de coco y el Malibúueremos hacer la piña colada en coctelera con alcohol.
+2. Echamos el zumo, la crema de coco y el Malibú si queremos hacer la piña colada en la coctelera.
 3. Agitamos bien, hacia delante y hacia detrás y de arriba a abajo, durante unos 30 segundos.
 4. Cogemos un vaso hurricane, le clavamos la rodaja de piña en el borde y llenamos su fondo de hielos. El vaso hurricane es el más empleado para servir cócteles como este, pero si no dispones de él puedes utilizar otro.
 5. Servimos en el vaso la piña colada con coctelera. Es muy importante que este cóctel esté bien frío para disfrutar de él.
