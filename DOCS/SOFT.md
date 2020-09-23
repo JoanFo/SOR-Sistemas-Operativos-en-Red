@@ -17,3 +17,8 @@ Windows es una familia de sistemas operativos que se utliza actualmente en servi
 
 ![](https://www.welivesecurity.com/wp-content/uploads/es-la/2012/12/Logo-Android.png)
 
+Android es un sistema operativo inicialmente pensado para teléfonos móviles, al igual que iOS, Symbian y Blackberry OS. Lo que lo
+hace diferente es que está basado en Linux, un núcleo de sistema operativo libre, gratuito y multiplataforma. Se fundó en octubre del año 2003 en la localidad Palo Alto (***California***), los fundadores de ***Android Inc.*** fueron los siguientes:***Andy Rubin, Rich Miner, Chris White y Nick Sears***, con el objetivo de desarrollar un sistema operativo para móviles basado en Linux. En julio de 2005, la multinacional Google compra Android Inc. El 5 de noviembre de 2007 se crea la Open Handset Alliance, un conglomerado de fabricantes y desarrolladores de hardware, software y operadores de servicio. El mismo día se anuncia la primera versión del sistema operativo: Android 1.0 Apple Pie. Los terminales con Android no estuvieron disponibles hasta el año 2008.
+
+***Solaris***
+
