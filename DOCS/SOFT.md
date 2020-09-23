@@ -1,4 +1,5 @@
 # 5 Sistemas Operativos más usados en PC's
+
 ***GNU/Linux***
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/06/Gnulinux.png)
@@ -10,4 +11,7 @@ GNU/Linux es un sistema operativo universal. El sistema operativo se define como
 
 ![](https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/8059116/Evolucion-Windows.png)
 
-Windows es una familia de sistemas operativos que se utliza actualmente en servidores y en PC's por la empresa estaounidiense llamada _Microsoft_. Dicha empresa, fue fundada en el año 1975 por los siguientes estadounidienses: _Bill Gates y Paul Allen_.
+Windows es una familia de sistemas operativos que se utliza actualmente en servidores y en PC's por la empresa estaounidiense llamada _Microsoft_. Dicha empresa, fue fundada en el año 1975 por los siguientes estadounidienses: _Bill Gates_ y _Paul Allen_.
+
+***
+
