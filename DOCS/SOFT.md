@@ -13,7 +13,7 @@ GNU/Linux es un sistema operativo universal. El sistema operativo se define como
 
 Windows es una familia de sistemas operativos que se utliza actualmente en servidores y en PC's por la empresa estaounidiense llamada _Microsoft_. Dicha empresa, fue fundada en el año 1975 por los siguientes estadounidienses: _Bill Gates_ y _Paul Allen_.
 
-*** Andoroid***
+***Andoroid***
 
 ![](https://www.welivesecurity.com/wp-content/uploads/es-la/2012/12/Logo-Android.png)
 
