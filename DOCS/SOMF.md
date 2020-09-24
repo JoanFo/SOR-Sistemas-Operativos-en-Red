@@ -12,7 +12,6 @@ GNU/Linux es un sistema operativo universal. El sistema operativo se define como
 
 <https://www.debian.org/releases/jessie/mips/ch01s02.html.es>
 
-
 ***Windows***
 
 ![](https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/8059116/Evolucion-Windows.png)
