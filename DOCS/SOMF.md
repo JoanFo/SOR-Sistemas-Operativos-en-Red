@@ -7,6 +7,7 @@
 GNU/Linux es un sistema operativo universal. El sistema operativo se define como un conjunto de programas que permiten interactuar con un PC y pueden ejecutar otros programas o aplicaciones.  El núcleo que une todos estos programas, en este caso, se llama Linux; el resto del sistema fueron proyectos programados por o para el proyecto GNU, de ahí que para denominar al sistema operativo se utilice el término “GNU/Linux”, aunque de manera informal se suele llamar solamente Linux. El fundador de GNU fue fundado por el estadounidiense _Richard Stallman_ y quién creó el núcleo fue el finlandés _Linus Torvalds_.
 
 <https://moodle2019-20.ua.es/moodle/pluginfile.php/54918/mod_resource/content/13/tema/gnulinux.html>
+
 <https://www.xataka.com/basics/cual-es-la-diferencia-entre-linux-y-gnu-linux>
 
 <https://www.debian.org/releases/jessie/mips/ch01s02.html.es>
