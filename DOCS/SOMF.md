@@ -12,6 +12,8 @@ GNU/Linux es un sistema operativo universal. El sistema operativo se define como
 
 <https://www.debian.org/releases/jessie/mips/ch01s02.html.es>
 
+![*Teminal de BASH (Bourne Again SHell) con el Sistema Operativo Ubuntu](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elarraydejota.com%2Fttyrec-ttygif-creando-gifs-de-la-terminal-de-linux%2F&psig=AOvVaw1dphltSZC9o7iCAx9c35wH&ust=1601034806404000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjwscndgewCFQAAAAAdAAAAABAD)
+
 ***Windows***
 
 ![](https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/8059116/Evolucion-Windows.png)
