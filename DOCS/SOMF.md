@@ -8,6 +8,7 @@ GNU/Linux es un sistema operativo universal. El sistema operativo se define como
 
 <https://moodle2019-20.ua.es/moodle/pluginfile.php/54918/mod_resource/content/13/tema/gnulinux.html>
 <https://www.xataka.com/basics/cual-es-la-diferencia-entre-linux-y-gnu-linux>
+
 <https://www.debian.org/releases/jessie/mips/ch01s02.html.es>
 
 ***Windows***
