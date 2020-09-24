@@ -2,7 +2,7 @@
 Esta piña colada realizada en coctelera es un clásico de la coctelería caribeña. Ahora tú también la puedes hacer en casa en escasos 10 minutos. Necesitarás una coctelera, zumo de piña, crema de coco, ron blanco y un medidor o jigger también podría serte útil. En cuanto al ron vamos a utilizar el ron Malibú. Ahora vamos a proceder cómo se prepara la piña colada en la coctelera:
 ## Tiempo: 10 minutos
 ## Grado de dificultad: Fácil/Baja
-## Coste: €€/€€€€
+## Coste: €€
 ## Ingredientes:
 * 270 mL de zumo de piña natural
 * 90 mL de crema de coco
