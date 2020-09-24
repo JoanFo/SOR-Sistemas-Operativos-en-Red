@@ -17,6 +17,8 @@ Una distribución _Linux_ o también conocida coloquialmente como distro, es una
 4. Distribuciones para mejorar la **privacidad**. *(Tails, Whonix, TENS, Quebes OS)*
 5. Las más ligeras para **equipos antiguos**. *(Linux Lite, LUbuntu, XUbuntu, Ubuntu Budgie)*
 
+![](https://www.muylinux.com/wp-content/uploads/2009/04/logos-distros.jpg)
+
 ## Busca la última versión de los sistemas operativos nombrados en el apartado anterior y explica las características de cada uno (fecha de lanzamiento, mejoras incorporadas, etc). En el caso de _GNU/Linux_, centrate en _Ubuntu_.
 
 **Ubuntu** es un sistema operativo predominantemente enfocado en la facilidad de uso e instalación, la libertad de los usuarios, y los lanzamientos regulares (cada 6 meses).
