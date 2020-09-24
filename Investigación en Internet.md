@@ -1,6 +1,6 @@
 ## Busca en wikipedia o cualquier otra web y resume en tres lineas lo que es _GPL_.
 
-La licencia GPL _General Public License_ (Licencia Pública General). Regula los derechos de autor o copyright de los programas de software libre promovido por Free Software Foundation en el marco de la iniciativa GNU.
+La licencia **GPL**  _**G**eneral **P**ublic **L**icense_ (Licencia Pública General). Regula los derechos de autor o copyright de los programas de software libre promovido por Free Software Foundation en el marco de la iniciativa GNU.
 Gracias a esto, permite la distribución de copias de programas (e incluso cobrar por ello), así como modificar el código fuente de los mismos o utilizarlo en otros programas.
 
 ## Explica brevemente la diferencia entre _software libre y comercial_.
