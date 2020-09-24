@@ -3,6 +3,8 @@
 La licencia **GPL**  _**G**eneral **P**ublic **L**icense_ (Licencia Pública General) regula los derechos de autor o copyright de los programas de software libre promovido por la  **FSF** _**F**ree _**S**oftware **F**oundation_ en el marco de la iniciativa GNU.
 Gracias a esto, permite la distribución de copias de programas (e incluso cobrar por ello), así como modificar el código fuente de los mismos o utilizarlo en otros programas.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/1200px-GPLv3_Logo.svg.png)
+
 ## Explica brevemente la diferencia entre _Software libre_ y _Comercial_.
 
 Una de las principales diferencias es que el software libre esta dado para todos los usuarios gratuitamente y posiblemente para los sistemas operativos, también los usuarios tienen la libertad de ejecutar, copiar, distribuir, estudiar, modificar y mejorar el software en cambio con el software comercial se tiene que pagar por obtener el servicio.
