@@ -12,7 +12,8 @@ GNU/Linux es un sistema operativo universal. El sistema operativo se define como
 
 <https://www.debian.org/releases/jessie/mips/ch01s02.html.es>
 
-![*Teminal de BASH (Bourne Again SHell) con el Sistema Operativo Ubuntu en Escritorio MATE*](https://www.profesionalreview.com/wp-content/uploads/2017/02/Manejo-de-procesos-htop.png)
+<https://www.profesionalreview.com/wp-content/uploads/2017/02/Manejo-de-procesos-htop.png>
+![*Teminal de BASH (Bourne Again SHell) con el Sistema Operativo Ubuntu en Escritorio MATE*]
 
 ***Windows***
 
