@@ -1,6 +1,6 @@
 ## Busca en Wikipedia o cualquier otra web y resume en tres lineas lo que es _GPL_.
 
-La licencia **GPL**  _**G**eneral **P**ublic **L**icense_ (Licencia Pública General) regula los derechos de autor o _copyright_ de los programas de software libre promovido por la  **FSF** _**F**ree **S**oftware **F**oundation_ en el marco de la iniciativa GNU.
+La licencia **GPL**  _**G**eneral **P**ublic **L**icense_ (Licencia Pública General) regula los derechos de autor o _copyright_ de los programas de _Software Libre_ promovido por la  **FSF** _**F**ree **S**oftware **F**oundation_ en el marco de la iniciativa GNU.
 Gracias a esto, permite la distribución de copias de programas (e incluso cobrar por ello), así como modificar el código fuente de los mismos o utilizarlo en otros programas.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/1200px-GPLv3_Logo.svg.png)
@@ -13,7 +13,7 @@ Una de las principales diferencias es que el software libre esta dado para todos
 
 ## ¿Qué es una Distribución GNU/Linux?. Nombra las _Distribuciones_ mas usuales.
 
-Una distribución _Linux_ o también conocida coloquialmente como distro, es una distribución de software basada en el núcleo Linux y que incluye determinados paquetes para ofrecer ciertas características o funciones al usuario. Hay muchas distribuciones orientados para cada tipo de usuarios, hay de cinco tipos de distros de Linux:
+Una distribución _GNU/Linux_ o también conocida coloquialmente como distro, es una distribución de software basada en el núcleo Linux y que incluye determinados paquetes para ofrecer ciertas características o funciones al usuario. Hay muchas distribuciones orientados para cada tipo de usuarios, hay de cinco tipos de distros o distribuciones de GNU/Linux:
 
 1. Distribuciones de Linux para **principiantes**. *(Ubuntu, Debian, Linux Mint, Fedora)*
 2. Distros de Linux para usuarios **avanzados**. *(Arch Linux, Gentoo, CentOS, Kali Linux)*
