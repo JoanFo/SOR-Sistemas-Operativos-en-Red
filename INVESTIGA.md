@@ -32,7 +32,7 @@ El nombre proviene del concepto africano Ubuntu, que significa ***humanidad haci
 
 ## ¿Qué es UNIX, en que se diferencian UNIX y Linux?
 
-UNIX es un sistema operativo portable, multitarea y multiusuario; desarrollado en 1969 por un grupo de empleados de los laboratorios Bell de AT&T.
+UNIX es un sistema operativo portable, multitarea y multiusuario desarrollado en 1969 por un grupo de empleados de los laboratorios Bell de AT&T.
 La principal diferencia es que Linux fue desarrollado para ser ejecutado en PC's, mientras que UNIX fue desarrollo principalmente para grandes estaciones de trabajo y servidores. Actualmente, Linux admite más plataformas que UNIX.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png)
