@@ -3,6 +3,7 @@
 ***GNU/Linux***
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/06/Gnulinux.png)
+![](https://www.muylinux.com/wp-content/uploads/2020/05/Ubuntu2004LTS.png)
 
 GNU/Linux es un sistema operativo universal. El sistema operativo se define como un conjunto de programas que permiten interactuar con un PC y pueden ejecutar otros programas o aplicaciones.  El núcleo que une todos estos programas, en este caso, se llama Linux; el resto del sistema fueron proyectos programados por o para el proyecto GNU, de ahí que para denominar al sistema operativo se utilice el término “GNU/Linux”, aunque de manera informal se suele llamar solamente Linux. El fundador de GNU fue fundado por el estadounidiense _Richard Stallman_ y quién creó el núcleo fue el finlandés _Linus Torvalds_. 
 
