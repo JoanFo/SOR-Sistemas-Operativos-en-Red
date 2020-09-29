@@ -5,7 +5,9 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/0/06/Gnulinux.png)
 
 GNU/Linux es un sistema operativo universal. El sistema operativo se define como un conjunto de programas que permiten interactuar con un PC y pueden ejecutar otros programas o aplicaciones.  El núcleo que une todos estos programas, en este caso, se llama Linux; el resto del sistema fueron proyectos programados por o para el proyecto GNU, de ahí que para denominar al sistema operativo se utilice el término “GNU/Linux”, aunque de manera informal se suele llamar solamente Linux. El fundador de GNU fue fundado por el estadounidiense _Richard Stallman_ y quién creó el núcleo fue el finlandés _Linus Torvalds_. 
-La última versión estable de este Sistema Operativo es la versión 5.8.7 (_fue lanzada el 5 de septiembre del año 2020_)
+
+**Ubuntu** es un sistema operativo predominantemente enfocado en la facilidad de uso e instalación, la libertad de los usuarios, y los lanzamientos regulares (cada 6 meses).
+El nombre proviene del concepto africano Ubuntu, que significa ***humanidad hacia otros*** o ***yo soy porque nosotros somos***. También es el nombre de un **movimiento humanista sudafricano**. Ubuntu aspira a impregnar de esa mentalidad al mundo de las computadoras. El eslogan de Ubuntu es ***Linux para seres humanos*** resume una de sus metas principales: hacer de Linux un sistema operativo más accesible y fácil de usar. Ubuntu es una distribución basada en ***Debian***. Su fecha de lanzamiento fue el 20 de octubre del año 2004 por la empresa británica Canonical Ltd. propiedad del empresario sudafricano Mark Shuttleworth. La versión más reciente es la 20.04 **LTS** (_**L**ong **T**erm **S**upport**_); del español (Sopote a largo plazo). Dicha versión recibe el nombre de _Focal Fossa_, lanazado en el 23 de abril de 2020.
 
 <https://moodle2019-20.ua.es/moodle/pluginfile.php/54918/mod_resource/content/13/tema/gnulinux.html>
 
