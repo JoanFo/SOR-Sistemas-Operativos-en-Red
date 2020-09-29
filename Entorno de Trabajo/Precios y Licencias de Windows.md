@@ -1,10 +1,8 @@
-- Mira el video y contesta a las siguientes preguntas
-   
-[![Ver video](https://github.com/manviny/SOR/blob/master/assets/video-icon.png?raw=true)](https://mega.nz/file/mRF2HRoR#fZEnd12qAiG9waIbtYizercU4mSWsGMmXFGESPxKLyI)
-- ¿Cuantos días se tienen para evaluar?
-  - Windows server 2016
-  - WIndows 10
-- ¿Desde que dirección se puede descargar Windows Server 2016?
-- Descarga Windows Server 2016
-- Descarga Windows 10 Enterprise
-- ¿Cuantos GB pesa cada uno de los SO (sistemas operativos) anteriores?.
+
+- Mira el video y constesta a las siguientes preguntas   
+[![Ver video](https://github.com/manviny/SOR/blob/master/assets/video-icon.png?raw=true)](https://mega.nz/file/WBEGQbbK#gVru4yd9C_2MQa_s8wN6-z3uLjtndGBB9JOgQDEC_Kg)
+- ¿Dónde se pueden ver precios y licencias?
+- ¿Cuantos Windows Server se pueden instalar con una licencia?
+- ¿Cuantos usuarios se pueden registrar en WS16 Essentials?
+- ¿Que windows server instalariamos si necesitamos almacenar muchos datos?
+- A partir de la mitad del video puedes mirarlo por curiosidad para ver nº de procesadores memoria RAM soportada por las diferentes versiones.
