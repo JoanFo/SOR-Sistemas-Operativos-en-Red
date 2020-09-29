@@ -1,6 +1,7 @@
 ## Busca en Wikipedia o cualquier otra web y resume en tres lineas lo que es _GPL_.
 
 La licencia **GPL**  _**G**eneral **P**ublic **L**icense_ (Licencia Pública General) regula los derechos de autor o _copyright_ de los programas de _Software Libre_ promovido por la  **FSF** _**F**ree **S**oftware **F**oundation_ en el marco de la iniciativa GNU.
+
 Gracias a esto, permite la distribución de copias de programas (e incluso cobrar por ello), así como modificar el código fuente de los mismos o utilizarlo en otros programas.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/1200px-GPLv3_Logo.svg.png)
@@ -23,12 +24,6 @@ Una distribución _GNU/Linux_ o también conocida coloquialmente como distro, es
 
 ![](https://www.muylinux.com/wp-content/uploads/2009/04/logos-distros.jpg)
 
-## Busca la última versión de los sistemas operativos nombrados en el apartado anterior y explica las características de cada uno (fecha de lanzamiento, mejoras incorporadas, etc). En el caso de _GNU/Linux_, centrate en _Ubuntu_.
-
-**Ubuntu** es un sistema operativo predominantemente enfocado en la facilidad de uso e instalación, la libertad de los usuarios, y los lanzamientos regulares (cada 6 meses).
-El nombre proviene del concepto africano Ubuntu, que significa ***humanidad hacia otros*** o ***yo soy porque nosotros somos***. También es el nombre de un **movimiento humanista sudafricano**. Ubuntu aspira a impregnar de esa mentalidad al mundo de las computadoras. El eslogan de Ubuntu es ***Linux para seres humanos*** resume una de sus metas principales: hacer de Linux un sistema operativo más accesible y fácil de usar. Ubuntu es una distribución basada en ***Debian***. Su fecha de lanzamiento fue el 20 de octubre del año 2004 por la empresa británica Canonical Ltd. propiedad del empresario sudafricano Mark Shuttleworth. La versión más reciente es la 20.04 **LTS** (_**L**ong **T**erm **S**upport**_); del español (Sopote a largo plazo). Dicha versión recibe el nombre de _Focal Fossa_, lanazado en el 23 de abril de 2020.
-
-![](https://www.muylinux.com/wp-content/uploads/2020/05/Ubuntu2004LTS.png)
 
 ## ¿Qué es UNIX, en que se diferencian UNIX y Linux?
 
